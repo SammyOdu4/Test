@@ -1,0 +1,3 @@
+Name: Samuel 
+I want to be a web developer
+Git is awesome.
